@@ -1,1 +1,0 @@
-import{F as l}from"./vendor.bb8931cf.js";const e=l([{label:"All",value:1},{label:"JavaScript",value:2},{label:"HTML",value:3},{label:"CSS",value:4},{label:"Svelte Js",value:5},{label:"TailwindCSS",value:6},{label:"YouTube Clone",value:7},{label:"Web development",value:8},{label:"React Js",value:9},{label:"Vue Js",value:10}]),a=l(1);export{a,e as t};
